@@ -1,4 +1,4 @@
-Use the function "ST_VLMPF.m” to encode the features as presented in the paper:
+Use the function "ST_VLMPF.m" to encode the features as presented in the paper:
 "Spatio-Temporal Vector of Locally Max Pooled Features for Action Recognition in Videos".
 Ionut Cosmin Duta;  Bogdan Ionescu; Kiyoharu Aizawa; Nicu Sebe.
 In Computer Vision and Pattern Recognition (CVPR), 2017.
